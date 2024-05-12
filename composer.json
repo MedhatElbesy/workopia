@@ -1,0 +1,16 @@
+{
+    "name":"medhatelbesy/workopia-php",
+    "description": "Job listing application",
+    "authors":[
+        {
+            "name": "Medhat Elbesy",
+            "email":"medhatelbesy@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
